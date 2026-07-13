@@ -1,14 +1,16 @@
 
 <h1 align="center">Hi 👋, I'm Praise Chidinma</h1>
-<h3 align="center">A prospective professional Data Analyst</h3>
+<h3 align="center">A professional Data Analyst  </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praisechidinma" alt="praisechidinma" /></a> </p>
 
-- 🔭 I’m currently learning and practicing **Excel**
+I am professional data analyst with excellent excel skills. I am an expert in organizing and transforming raw data to uncover patterns, trend, and improve efficiency, guide strategy and support insights that support decision making.
 
-- 🌱 I’m currently learning **Advanced Excel**
+- 🔭 I’m currently learning **SQL**
 
-- 🤝 I’m looking for help with **cleaning and formatting datasets**
+- 🌱 I specialize in the use of **Advanced Excel**
+
+- 🤝 I’m looking to help with **data cleaning and formatting datasets**
 
 - 💬 Ask me about **Excel**
 
