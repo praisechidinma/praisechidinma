@@ -1,3 +1,4 @@
+![](https://github.com/praisechidinma/praisechidinma/blob/main/fda1bc90d6e312df7a1f562ae8bde896.jpg)
 
 <h1 align="center">Hi 👋, I'm Praise Chidinma</h1>
 <h3 align="center">A professional Data Analyst  </h3>
