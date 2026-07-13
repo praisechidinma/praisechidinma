@@ -1,10 +1,9 @@
- [![MasterHead] <[img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/3d2e76fd-afb4-4956-ac2f-316bdcac129c](https://www.magnific.com/free-vector/isometric-data-visualization-concept-background_4125155.htm#fromView=keyword&page=1&position=0&uuid=606e859c-3a96-4dba-8f30-64947cd20f4e&query=Animated+data+analysis) " />
 
-# PRAISE-<h1 align="center">Hi 👋, I'm Praise Chidinma</h1>
+<h1 align="center">Hi 👋, I'm Praise Chidinma</h1>
 <h3 align="center">A prospective professional Data Analyst</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praisechidinma" alt="praisechidinma" /></a> </p>
-I'm a  prospective professional Data Analyst passion for turning data into meaningful insights that drive better decisions. I am good at using Excel to transform data.
+
 - 🔭 I’m currently learning and practicing **Excel**
 
 - 🌱 I’m currently learning **Advanced Excel**
@@ -26,9 +25,11 @@ I'm a  prospective professional Data Analyst passion for turning data into meani
 <a href="https://medium.com/@praisechidinma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@praisechidinma" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=praisechidinma&show_icons=true&locale=en&layout=compact" alt="praisechidinma" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praisechidinma&show_icons=true&locale=en" alt="praisechidinma" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praisechidinma&" alt="praisechidinma" /></p>
-CHIDINMA
